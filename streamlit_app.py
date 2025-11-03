@@ -206,7 +206,7 @@ right_cell = cols[1].container(
 )
 
 
-@st.cache_resource(show_spinner=False)
+@st.cache_resource(show_spinner=False, ttl="6h")
 def load_data(tickers, period):
     tickers_obj = yf.Tickers(tickers)
     data = tickers_obj.history(period=period)
