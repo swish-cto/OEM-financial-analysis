@@ -4,7 +4,7 @@ A Streamlit app where you can compare how different stocks fare against each oth
 
 ## View it in one click
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stockpeers.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://demo-stockpeers.streamlit.app)
 
 ## Try it on your machine
 
