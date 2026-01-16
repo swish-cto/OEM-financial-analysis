@@ -1,6 +1,6 @@
 # Stock peer group analysis
 
-A Streamlit app where you can compare how different stocks fare against each other.
+A Streamlit app where you can compare how different OEM stocks fare against each other.
 
 ## View it in one click
 
@@ -11,7 +11,7 @@ A Streamlit app where you can compare how different stocks fare against each oth
 1. Get the code:
 
    ```sh
-   $ git clone https://github.com/streamlit/demo-stockpeers.git
+   $ git clone https://github.com/streamlit/OEM-financial-analysis.git
    ```
 
 2. Start a virtual environment and get the dependencies (requires uv):
